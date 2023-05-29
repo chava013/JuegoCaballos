@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 142f831fe85bd74428264a7a90a95a1c, type: 3}
+  m_Name: Andaluz
+  m_EditorClassIdentifier: 
+  personajeJugable: {fileID: 2798195751145872784, guid: 8e343c3a90115b84dbbd4b97dd55c2fc, type: 3}
+  imagen: {fileID: 21300000, guid: f94c64bb227c09244a15ccb12e1001e0, type: 3}
+  real: {fileID: 21300000, guid: 3a5440a0504fcc245aaa1717f4d57b35, type: 3}
+  nombre: Andaluz
+  origen: Andalucia
+  desc: "Est\xE1 considerado oficialmente como \u201CPura raza Espa\xF1ola\u201D, 
+    conocido tambi\xE9n com\xFAnmente como \u201Ccaballo espa\xF1ol\u201D. Pertenece
+    a una de las razas equinas m\xE1s antiguas del mundo. "
+  exp: 0
+  exp_max: 15
+  grandex: 4.3
+  grandey: 4.2
+  vel: 1

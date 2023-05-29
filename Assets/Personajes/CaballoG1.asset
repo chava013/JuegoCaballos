@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 142f831fe85bd74428264a7a90a95a1c, type: 3}
+  m_Name: CaballoG1
+  m_EditorClassIdentifier: 
+  personajeJugable: {fileID: 4882700486007256880, guid: 01c228ca4757ab84ea7c8cfb9bcf0796, type: 3}
+  imagen: {fileID: 21300000, guid: 1c2c9e5752a66d34d93ea9363ecfa918, type: 3}
+  real: {fileID: 21300000, guid: 0ff5a3dc1e367b34aa84c27aff41f7c6, type: 3}
+  nombre: Especial
+  origen: "\xDAnico"
+  desc: "Este caballo fue creado solo con fines funcionales del juego. No representa
+    ning\xFAn caballo real."
+  exp: 0
+  exp_max: 15
+  grandex: 4.3
+  grandey: 4.2
+  vel: 1

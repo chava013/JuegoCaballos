@@ -1,0 +1,1296 @@
+fileFormatVersion: 2
+guid: cd4d7bcdc6038984d9407b2dd3384cc5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -555337239432626093
+    second: alfabeto 1_0
+  - first:
+      213: 371576675196578272
+    second: alfabeto 1_1
+  - first:
+      213: 2240617935561792093
+    second: alfabeto 1_2
+  - first:
+      213: -5692966308465477809
+    second: alfabeto 1_3
+  - first:
+      213: 2873042173748609042
+    second: alfabeto 1_4
+  - first:
+      213: 3722839495425448066
+    second: alfabeto 1_5
+  - first:
+      213: 5836122715749340779
+    second: alfabeto 1_6
+  - first:
+      213: -6988296356068449141
+    second: alfabeto 1_7
+  - first:
+      213: 5043649345733726360
+    second: alfabeto 1_8
+  - first:
+      213: 8602622857148540264
+    second: alfabeto 1_9
+  - first:
+      213: 891076263347602582
+    second: alfabeto 1_10
+  - first:
+      213: 3793285374310507801
+    second: alfabeto 1_11
+  - first:
+      213: -7084059146920881179
+    second: alfabeto 1_12
+  - first:
+      213: -4766614869722921315
+    second: alfabeto 1_13
+  - first:
+      213: 5951209130265648685
+    second: alfabeto 1_14
+  - first:
+      213: 5112086973740768106
+    second: alfabeto 1_15
+  - first:
+      213: 6199100267866532389
+    second: alfabeto 1_16
+  - first:
+      213: -2222579690047177547
+    second: alfabeto 1_17
+  - first:
+      213: 9080968665473956262
+    second: alfabeto 1_18
+  - first:
+      213: 7974500990174246214
+    second: alfabeto 1_19
+  - first:
+      213: 4090860935294755788
+    second: alfabeto 1_20
+  - first:
+      213: 8266324565146579783
+    second: alfabeto 1_21
+  - first:
+      213: 7730164724885446984
+    second: alfabeto 1_22
+  - first:
+      213: 2519322940243382602
+    second: alfabeto 1_23
+  - first:
+      213: 8766895601357243993
+    second: alfabeto 1_24
+  - first:
+      213: 117898766555960570
+    second: alfabeto 1_25
+  - first:
+      213: 3091907519318877802
+    second: alfabeto 1_26
+  - first:
+      213: 3665781297025153725
+    second: alfabeto 1_27
+  - first:
+      213: -5385467874672829090
+    second: alfabeto 1_28
+  - first:
+      213: 2105660439838115859
+    second: alfabeto 1_29
+  - first:
+      213: -7360028706950435058
+    second: alfabeto 1_30
+  - first:
+      213: 5105556085400360395
+    second: alfabeto 1_31
+  - first:
+      213: -2418431032378596773
+    second: alfabeto 1_32
+  - first:
+      213: -1550728295758003170
+    second: alfabeto 1_33
+  - first:
+      213: 3756213222254830252
+    second: alfabeto 1_34
+  - first:
+      213: 7275655586437018063
+    second: alfabeto 1_35
+  - first:
+      213: -6102672917194160904
+    second: alfabeto 1_36
+  - first:
+      213: -3216873733950292590
+    second: alfabeto 1_37
+  - first:
+      213: 3974332537759699292
+    second: alfabeto 1_38
+  - first:
+      213: -7532004524862965117
+    second: alfabeto 1_39
+  - first:
+      213: -4708685359306179243
+    second: alfabeto 1_40
+  - first:
+      213: -5881289964179717659
+    second: alfabeto 1_41
+  - first:
+      213: -1579357909856735395
+    second: alfabeto 1_42
+  - first:
+      213: 8511208860930193363
+    second: alfabeto 1_43
+  - first:
+      213: -8015588612442114319
+    second: alfabeto 1_44
+  - first:
+      213: 7303253547322917463
+    second: alfabeto 1_45
+  - first:
+      213: 2803069345249152631
+    second: alfabeto 1_46
+  - first:
+      213: -1280817619357706007
+    second: alfabeto 1_47
+  - first:
+      213: -3657940016605306248
+    second: alfabeto 1_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alfabeto 1_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 770
+        width: 124
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350821919bb0b48f0800000000000000
+      internalID: -555337239432626093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 769
+        width: 104
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9a9e3740b182500800000000000000
+      internalID: 371576675196578272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_2
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 771
+        width: 109
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a978e1426481f10800000000000000
+      internalID: 2240617935561792093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_3
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 771
+        width: 110
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47f5a91e458ef0b0800000000000000
+      internalID: -5692966308465477809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_4
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 772
+        width: 96
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210800f82a81fd720800000000000000
+      internalID: 2873042173748609042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_5
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 772
+        width: 96
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288d0a0fbce2aa330800000000000000
+      internalID: 3722839495425448066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 618
+        width: 113
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66d3d950b21ef050800000000000000
+      internalID: 5836122715749340779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 619
+        width: 109
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84226f5d75940f90800000000000000
+      internalID: -6988296356068449141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_8
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 618
+        width: 72
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89017188b54aef540800000000000000
+      internalID: 5043649345733726360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_9
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 618
+        width: 108
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865aef0f8e7a26770800000000000000
+      internalID: 8602622857148540264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_10
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 616
+        width: 111
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694cd90f32dbd5c00800000000000000
+      internalID: 891076263347602582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_11
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 619
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915667343f474a430800000000000000
+      internalID: 3793285374310507801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 470
+        width: 126
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e39ce32dbd50bd90800000000000000
+      internalID: -7084059146920881179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 470
+        width: 108
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d960215d70599ddb0800000000000000
+      internalID: -4766614869722921315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 467
+        width: 129
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e9b815c21f69250800000000000000
+      internalID: 5951209130265648685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_15
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 469
+        width: 107
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b58b28408c1f640800000000000000
+      internalID: 5112086973740768106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_16
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 466
+        width: 133
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52aa63179d0a70650800000000000000
+      internalID: 6199100267866532389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_17
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 467
+        width: 109
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc7db13c8fc721e0800000000000000
+      internalID: -2222579690047177547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_18
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 468
+        width: 109
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9370263e4160e70800000000000000
+      internalID: 9080968665473956262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 320
+        width: 108
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645365c566e1bae60800000000000000
+      internalID: 7974500990174246214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 322
+        width: 105
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc324c9a858a5c830800000000000000
+      internalID: 4090860935294755788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 320
+        width: 118
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743b5a72562e7b270800000000000000
+      internalID: 8266324565146579783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_22
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 320
+        width: 149
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8416d027cdf074b60800000000000000
+      internalID: 7730164724885446984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_23
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 319
+        width: 119
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4113bfbdde66f220800000000000000
+      internalID: 2519322940243382602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_24
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 319
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95645d5b9154aa970800000000000000
+      internalID: 8766895601357243993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_25
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 321
+        width: 99
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af45604bd4cd2a100800000000000000
+      internalID: 117898766555960570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_26
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 207
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a666c57d189a8ea20800000000000000
+      internalID: 3091907519318877802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 153
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba7471eaa87fd230800000000000000
+      internalID: 3665781297025153725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_28
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 153
+        width: 120
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d19dc5089f245b0800000000000000
+      internalID: -5385467874672829090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_29
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 153
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318c426830fc83d10800000000000000
+      internalID: 2105660439838115859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_30
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 147
+        width: 209
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0faa89d2ecebd990800000000000000
+      internalID: -7360028706950435058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_31
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 153
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc55f1395349ad640800000000000000
+      internalID: 5105556085400360395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 92
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52ea491ac1007ed0800000000000000
+      internalID: -2418431032378596773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_33
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 98
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e148234c4d4ba7ae0800000000000000
+      internalID: -1550728295758003170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_34
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 98
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2ef1d3600c02430800000000000000
+      internalID: 3756213222254830252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_35
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 98
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc13aa1353258f460800000000000000
+      internalID: 7275655586437018063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_36
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 98
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4ce3ea053fe4ba0800000000000000
+      internalID: -6102672917194160904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_37
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 98
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dbb98f16e5b53d0800000000000000
+      internalID: -3216873733950292590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_38
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 92
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51917cd26aa72730800000000000000
+      internalID: 3974332537759699292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_39
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 92
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a78e87ac1f87790800000000000000
+      internalID: -7532004524862965117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_40
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 98
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55df8770d9367aeb0800000000000000
+      internalID: -4708685359306179243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_41
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 42
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e18fff10f5716ea0800000000000000
+      internalID: -5881289964179717659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_42
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 42
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f29c9495ef41ae0800000000000000
+      internalID: -1579357909856735395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 42
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7b6ec5d53ed1670800000000000000
+      internalID: 8511208860930193363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_44
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 42
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6b8b910a8e2c090800000000000000
+      internalID: -8015588612442114319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_45
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 42
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7524bc0386e5a5560800000000000000
+      internalID: 7303253547322917463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_46
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 42
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ecc5cd7b086e620800000000000000
+      internalID: 2803069345249152631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_47
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 37
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e85f18492f993ee0800000000000000
+      internalID: -1280817619357706007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabeto 1_48
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 42
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872ed8c7fe26c3dc0800000000000000
+      internalID: -3657940016605306248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
